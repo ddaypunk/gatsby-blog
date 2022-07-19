@@ -1,5 +1,5 @@
 ---
-title: My Studies of Head First Android Development 3rd Edition: Chapters 1 & 2
+title: "My Studies of Head First Android Development - 3rd Edition: Chapters 1 & 2"
 path: "/hfade3-chapter1-2"
 date: 2022-07-18
 author: "Andy Delso"
