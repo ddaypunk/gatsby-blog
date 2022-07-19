@@ -55,6 +55,9 @@ Overall, I am excited to be back into learning Android development! I hope this 
 
 Have you found my review of the first two chapters of Head First Android Development: 3rd Edition helpful? If so, check out my next blog featuring chapters three and four and what lessons I learned from them.
 
+### Cross-post
+This was also posted on [Dev.to](https://dev.to/ddaypunk/my-studies-of-head-first-android-development-3rd-edition-chapters-1-2-2l1c) where commments are enabled, and welcomed!
+
 ### Sources
 *Head First Android Development, 3rd Edition - Dawn Griffiths, David Griffiths*
 
