@@ -29,7 +29,7 @@ This chapter goes a bit deeper into a few different layout types, and their gene
 - FrameLayouts - child views stacked
 - ScrollViews - use to wrap layouts with a scroll bar
 
-![[linear layout image]]
+![Linear layout example ui](../images/linear_layout_example_ui.png)
 
 Each layout type was nicely presented with a small app example to build. This chapter (as well as previous ones) employs in-text activities to solidify your knowledge. The most memorable (in my opinion) has been the Refrigerator Magnet ones, which allow you to see some of the code and fill in the blanks.
 
@@ -52,7 +52,7 @@ Chapter four dives deeply into the many abilities of this layout including
 - Chains
 - Flows
 
-![[Design View Constraints.png]]
+![Android Studio design view with constraints](../images/design_view_constraints.png)
 
 Additionally, this chapter goes into all the relevant Android Studio tools in the Design View to work with ConstraintLayouts. 
 
@@ -90,7 +90,7 @@ I am excited to continue with this book and build more apps to gain the knowledg
 What excites you about the prospect of reading it?
 
 ### Cross-post
-This was also posted on [Dev.to](https://dev.to/ddaypunk/my-studies-of-head-first-android-development-3rd-edition-chapters-1-2-2l1c) where commments are enabled, and welcomed!
+This was also posted on [Dev.to](https://dev.to/ddaypunk/my-studies-of-head-first-android-development-3rd-edition-ch-3-4-1e91) where commments are enabled, and welcomed!
 
 ### Sources
 *Head First Android Development, 3rd Edition - Dawn Griffiths, David Griffiths*
