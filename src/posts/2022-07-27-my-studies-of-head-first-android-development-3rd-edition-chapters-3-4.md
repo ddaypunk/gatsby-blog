@@ -3,12 +3,12 @@ title: "My Studies of Head First Android Development - 3rd Edition: Chapters 3 &
 path: "/hfade3-chapter3-4"
 date: 2022-07-27
 author: "Andy Delso"
-excerpt: 'For the better part of the past year, I have been working on becoming an Android Developer...'
+excerpt: 'Welcome back to chapters 3 and 4'
 tags: ["android", "kotlin", "mobile","book"]
 ---
 Welcome back to my series on [*Head First Android Development - 3rd Edition*](https://amzn.to/3JoTixn)! This blog post is a continuation of a series of posts I will be doing on reading and working through *Head First Android Development*. This blog deals specifically with chapters three and four. 
 
-Are you new to the series? Please start at the beginning of the series here. 
+Are you new to the series? Please start at the beginning of the series [here](2022-07-18-my-studies-of-head-first-android-development-3rd-edition-chapters-1-2.md). 
 
 *Note: This blog may contain affiliate links for books or products I reference. Clicking on these links may result in compensation.*
 
@@ -82,10 +82,9 @@ Using all of the tools above was quite fun, and I am looking forward to designin
 ```
 
 # I’m Only Skimming the Surface on What You Will Find in This Text!
-
 There is so much more to unpack than I have summarized. Truthfully, you should dive into it yourself! 
 
-I am excited to continue with this book and build more apps to gain the knowledge I need to become an Android Developer. Next in the series I will be covering Chapter 5 and providing my notes, thoughts, and questions for you. 
+I am excited to continue with this book and build more apps to gain the knowledge I need to become an Android Developer. Next in the series I will be [covering Chapter 5 and 6](2022-08-03-my-studies-of-head-first-android-development-3rd-edition-chapters-5-6.md) to prove my notes, thoughts, and questions for you. 
 
 What excites you about the prospect of reading it?
 
