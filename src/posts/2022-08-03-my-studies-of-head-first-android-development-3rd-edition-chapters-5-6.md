@@ -111,5 +111,8 @@ I am looking forward to continuing this journey with you all and building more a
 
 What app would you make if you could? After reading this book, I bet you could to it!
 
+### Cross-post
+This was also posted on [Dev.to](https://dev.to/ddaypunk/my-studies-of-head-first-android-development-3rd-edition-ch-5-6-3bfj) where commments are enabled, and welcomed!
+
 ### Sources
 *Head First Android Development, 3rd Edition – Dawn Griffiths, David Griffiths*
