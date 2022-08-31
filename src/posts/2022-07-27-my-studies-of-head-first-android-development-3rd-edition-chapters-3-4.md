@@ -8,7 +8,7 @@ tags: ["android", "kotlin", "mobile","book"]
 ---
 Welcome back to my series on [*Head First Android Development - 3rd Edition*](https://amzn.to/3JoTixn)! This blog post is a continuation of a series of posts I will be doing on reading and working through *Head First Android Development*. This blog deals specifically with chapters three and four. 
 
-Are you new to the series? Please start at the beginning of the series [here](2022-07-18-my-studies-of-head-first-android-development-3rd-edition-chapters-1-2.md). 
+Are you new to the series? Please start at the beginning of the series [here](/src/posts/2022-07-18-my-studies-of-head-first-android-development-3rd-edition-chapters-1-2.md). 
 
 *Note: This blog may contain affiliate links for books or products I reference. Clicking on these links may result in compensation.*
 
