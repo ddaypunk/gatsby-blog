@@ -11,6 +11,9 @@ const Footer = ({ copyrights }) => (
       />
     ) : (
       <>
+        <span>
+          Follow me on <a rel="me" href="https://androiddev.social/@andy">Mastodon</a>!
+        </span>
         <span className="footerCopyrights">
           © 2019 Built with <a href="https://www.gatsbyjs.org">Gatsby</a>
         </span>
